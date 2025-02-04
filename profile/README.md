@@ -1,5 +1,7 @@
 ## ✨ SMWU LIKELION 웹사이트 프로젝트 ✨
 
+<img width="855" alt="likelion " src="https://github.com/user-attachments/assets/e1886bad-916d-453c-b128-7c6eb4107816" />
+
 
 ### Contributors
 
@@ -10,7 +12,7 @@
 
 
 
-### Web-Founders 2nd
+### 🚧 Web-Founders 2nd
 
 | PM & Designer | Frontend | Frontend | Frontend | Backend | Backend | Backend |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
